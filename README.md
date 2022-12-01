@@ -1,4 +1,4 @@
-# A 3D-Printable Blocks
+# 3D-Printable Blocks
 
 ![](https://img.shields.io/badge/CAD-SOLIDWORKS-red)
 ![](https://img.shields.io/badge/CAD-FreeCAD-red)
