@@ -9,6 +9,7 @@ Welcome to my repository for my 3D-Printable Blocks project.
 
 <div>
     <img src="./cad/renders/8_block.png" style="height:240px;">
+    <img src="./doc/img/blocks.png" style="height:240px;">
 </div>
 
 ## Motivation
